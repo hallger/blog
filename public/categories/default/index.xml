@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Default on Project Hallgerd</title>
+    <link>http://localhost:1313/categories/default/</link>
+    <description>Recent content in Default on Project Hallgerd</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 May 2024 20:20:29 +0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/default/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markdown Guide</title>
+      <link>http://localhost:1313/posts/2024-05-09-markdown-guide/</link>
+      <pubDate>Thu, 09 May 2024 20:20:29 +0400</pubDate>
+      <guid>http://localhost:1313/posts/2024-05-09-markdown-guide/</guid>
+      <description>Introduction </description>
+    </item>
+  </channel>
+</rss>

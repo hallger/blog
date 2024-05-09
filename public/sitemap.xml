@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hallgerd.com/categories/</loc>
+    <lastmod>2024-05-09T20:20:29+04:00</lastmod>
+  </url><url>
+    <loc>https://hallgerd.com/tags/markdown/</loc>
+    <lastmod>2024-05-09T20:20:29+04:00</lastmod>
+  </url><url>
+    <loc>https://hallgerd.com/posts/2024-05-09-markdown-guide/</loc>
+    <lastmod>2024-05-09T20:20:29+04:00</lastmod>
+  </url><url>
+    <loc>https://hallgerd.com/posts/</loc>
+    <lastmod>2024-05-09T20:20:29+04:00</lastmod>
+  </url><url>
+    <loc>https://hallgerd.com/categories/posts/</loc>
+    <lastmod>2024-05-09T20:20:29+04:00</lastmod>
+  </url><url>
+    <loc>https://hallgerd.com/</loc>
+    <lastmod>2024-05-09T20:20:29+04:00</lastmod>
+  </url><url>
+    <loc>https://hallgerd.com/tags/</loc>
+    <lastmod>2024-05-09T20:20:29+04:00</lastmod>
+  </url><url>
+    <loc>https://hallgerd.com/play/</loc>
+  </url>
+</urlset>
